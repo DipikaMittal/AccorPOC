@@ -4,4 +4,7 @@ public class TestClass(
 public String ToString(){
 	return 'I am Test Class';
 }
+public void execute(){
+	System.Debug('Execute');
+}
 }
